@@ -1,5 +1,5 @@
 {
-  "name": "crwizard/client",
+  "name": "crwizard/k8s-client",
   "description": "A Kubernetes client for PHP.",
   "minimum-stability": "stable",
   "license": "MIT",
